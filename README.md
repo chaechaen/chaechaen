@@ -40,9 +40,10 @@ Here are some ideas to get you started:
 
 <br>
 
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaechaen&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaechaen&layout=compact)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=celee02)](https://solved.ac/celee02)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaechaen&layout=compact" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=celee02" />
+  </div>
