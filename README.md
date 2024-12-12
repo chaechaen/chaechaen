@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <span>- 대학생 IT 연합 동아리 [홍익대 UMC](https://github.com/HIUMC) 6기 FE(Web) 파트장 & BE(Spring) 챌린저 *(24.03 - 24.08)*</span>
 
-<span>- 2024년 제12회 SW개발 공모전 피우다 프로젝트 참여 *(24.04 - 2024.07)*</span>
+<span>- 2024년 제12회 SW개발 공모전 피우다 프로젝트 참여 *(24.04 - 24.07)*</span>
 
 <span>- 노숙인과 농가를 위한 인력 매칭 서비스 [Step Up](https://github.com/ICT-project-stepup) FE & BE 개발 *(24.04 - 24.07)*</span>
 
