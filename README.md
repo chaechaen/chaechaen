@@ -34,8 +34,12 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaechaen&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaechaen&layout=compact)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=celee02)](https://solved.ac/celee02/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaechaen&show_icons=true&theme=radical&width=450" width="400"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaechaen&layout=compact" width="400" />
+  <br><br>
+  <a href="https://solved.ac/celee02">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=celee02" width="400" />
+  </a>
+</div>
