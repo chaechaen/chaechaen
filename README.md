@@ -55,26 +55,26 @@ Here are some ideas to get you started:
 ---
 <div>
   
-<p>- 홍익대학교 컴퓨터공학과 *(21.03 - )*</p>
+<span>- 홍익대학교 컴퓨터공학과 *(21.03 - )*</span>
 
-<p>- GDSC Hongik Front-End & Mobile *(23.03 - 24.08)*</p>
+<span>- GDSC Hongik Front-End & Mobile *(23.03 - 24.08)*</span>
 
-<p>- [홍익대 UMC](https://github.com/HIUMC) 5기 Web 챌린저 *(23.09 - 24.02)*</p>
+<span>- [홍익대 UMC](https://github.com/HIUMC) 5기 Web 챌린저 *(23.09 - 24.02)*</span>
 
-<p>- [동네형](https://github.com/fitness-bro): 저렴한 금액의 우리 동네 헬스 과외 플랫폼 FE 개발 *(24.01 - 24.04)*</p>
+<span>- [동네형](https://github.com/fitness-bro): 저렴한 금액의 우리 동네 헬스 과외 플랫폼 FE 개발 *(24.01 - 24.04)*</span>
 
-<p>- [홍익대 UMC](https://github.com/HIUMC) 6기 Web 파트장 *(24.03 - 24.08)*</p>
+<span>- [홍익대 UMC](https://github.com/HIUMC) 6기 Web 파트장 *(24.03 - 24.08)*</span>
 
-<p>- [홍익대 UMC](https://github.com/HIUMC) 6기 Spring 챌린저 *(24.03 - 24.08)*</p>
+<span>- [홍익대 UMC](https://github.com/HIUMC) 6기 Spring 챌린저 *(24.03 - 24.08)*</span>
 
-<p>- 2024년 제12회 SW개발 공모전 피우다 프로젝트 참여 *(24.04 - 2024.07)*</p>
+<span>- 2024년 제12회 SW개발 공모전 피우다 프로젝트 참여 *(24.04 - 2024.07)*</span>
 
-<p>- [Step Up](https://github.com/ICT-project-stepup) : 노숙인과 농가를 위한 인력 매칭 서비스 FE & BE 개발 *(24.04 - 24.07)*</p>
+<span>- [Step Up](https://github.com/ICT-project-stepup) : 노숙인과 농가를 위한 인력 매칭 서비스 FE & BE 개발 *(24.04 - 24.07)*</span>
 
-<p>- [On](https://github.com/UMC-ON) : 나만의 완벽한 교환/방문학생 라이프 BE 개발 *(2024.07 - )*</p>
+<span>- [On](https://github.com/UMC-ON) : 나만의 완벽한 교환/방문학생 라이프 BE 개발 *(2024.07 - )*</span>
 
-<p>- [홍익대 UMC](https://github.com/HIUMC) 7기 Web 파트장 *(24.09 - 25.02)*</p>
+<span>- [홍익대 UMC](https://github.com/HIUMC) 7기 Web 파트장 *(24.09 - 25.02)*</span>
 
-<p>- [홍익대 UMC](https://github.com/HIUMC) 7기 Spring Boot 챌린저 *(24.09 - 25.02)*</p>
+<span>- [홍익대 UMC](https://github.com/HIUMC) 7기 Spring Boot 챌린저 *(24.09 - 25.02)*</span>
 </div>
 
