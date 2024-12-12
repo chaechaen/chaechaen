@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <span>- 노숙인과 농가를 위한 인력 매칭 서비스 [Step Up](https://github.com/ICT-project-stepup) FE & BE 개발 *(24.04 - 24.07)*</span>
 
-<span>- 나만의 완벽한 교환/방문학생 라이프 [On](https://github.com/UMC-ON) BE 개발 *(2024.07 - )*</span>
+<span>- 나만의 완벽한 교환/방문학생 라이프 [On](https://github.com/UMC-ON) BE 개발 *(24.07 - )*</span>
 
 <span>- 대학생 IT 연합 동아리 [홍익대 UMC](https://github.com/HIUMC) 7기 FE(Web) 파트장 & BE(Spring Boot) 챌린저 *(24.09 - 25.02)*</span>
 </div>
