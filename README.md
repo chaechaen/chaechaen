@@ -32,11 +32,17 @@ Here are some ideas to get you started:
 
 <div align="center">
   <!-- Infrastructure & Tools -->
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" />
 </div>
 
 
@@ -71,3 +77,4 @@ Here are some ideas to get you started:
 - 노숙인과 농가를 위한 인력 매칭 서비스 [Step Up](https://github.com/ICT-project-stepup) FE & BE 개발 *(2024.04 - 2024.07)*
 - 나만의 완벽한 교환/방문학생 라이프 [On](https://github.com/UMC-ON) BE 개발 *(2024.07 - )*
 - 대학생 IT 연합 동아리 [홍익대 UMC](https://github.com/HIUMC) 7기 FE(Web) 파트장 & BE(Spring Boot) 챌린저 *(2024.09 - 2025.02)*
+- 뮤지컬/소극장 공연 플랫폼 [Muit](https://github.com/MUIT-UMC) BE 개발 *(2025.01 - )*
