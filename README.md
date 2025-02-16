@@ -73,8 +73,8 @@ Here are some ideas to get you started:
 - 대학생 IT 연합 동아리 [홍익대 UMC](https://github.com/HIUMC) 5기 FE(Web) 챌린저 *(2023.09 - 2024.02)*
 - 동네 헬스 과외 플랫폼 [동네형](https://github.com/fitness-bro) FE 개발 *(2024.01 - 2024.04)*
 - 대학생 IT 연합 동아리 [홍익대 UMC](https://github.com/HIUMC) 6기 FE(Web) 파트장 & BE(Spring) 챌린저 *(2024.03 - 2024.08)*
-- 2024년 제12회 SW개발 공모전 피우다 프로젝트 참여 *(2024.04 - 2024.07)*
 - 노숙인과 농가를 위한 인력 매칭 서비스 [Step Up](https://github.com/ICT-project-stepup) FE & BE 개발 *(2024.04 - 2024.07)*
 - 나만의 완벽한 교환/방문학생 라이프 [On](https://github.com/UMC-ON) BE 개발 *(2024.07 - )*
 - 대학생 IT 연합 동아리 [홍익대 UMC](https://github.com/HIUMC) 7기 FE(Web) 파트장 & BE(Spring Boot) 챌린저 *(2024.09 - 2025.02)*
+- 홍익대학교 UMC 리크루팅 웹사이트 [HUR](https://github.com/HUR-Hongik-UMC-Recruit) FE 개발 *(2024.10 - )*
 - 뮤지컬/소극장 공연 플랫폼 [Muit](https://github.com/MUIT-UMC) BE 개발 *(2025.01 - )*
